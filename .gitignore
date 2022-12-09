@@ -2,3 +2,4 @@ df_audio_features_1000
 spotify_kmean.ipynb
 .cache
 .cache-11133611011
+.env
