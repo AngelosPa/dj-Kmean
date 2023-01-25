@@ -1,5 +1,7 @@
-songs_df_dunata.csv
+songslist_dynata2.csv
+cluster_bpm_industrial.csv
+stats.ipynb
 .cache
-.cache-11133611011
+.cache-11133611811
 .env
 lists.py
